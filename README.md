@@ -111,9 +111,9 @@ Using the given roll number and dataset, the following values were obtained:
 
 | Parameter | Value |
 |----------|------|
-| μ (mu) | **25.8045** |
-| λ (lambda) | **0.0014603** |
-| c | **0.0215596** |
+| μ (mu) | **25.804484510102007** |
+| λ (lambda) | **0.0014602636800887954** |
+| c | **0.02155960031650373** |
 
 ---
 
