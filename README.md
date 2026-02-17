@@ -38,19 +38,19 @@ https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data
 
 Each value of \( x \) is transformed using:
 
-\[
+$$
 z = x + a_r \sin(b_r x)
-\]
+$$
 
 Where:
 
-\[
+$$
 a_r = 0.05 \times (r \bmod 7)
-\]
+$$
 
-\[
+$$
 b_r = 0.3 \times ((r \bmod 5) + 1)
-\]
+$$
 
 and  
 \( r \) = university roll number.
@@ -61,16 +61,15 @@ and
 
 The transformed data \( z \) is modeled using the PDF:
 
-\[
+$$
 \hat{p}(z) = c \cdot e^{-\lambda (z-\mu)^2}
-\]
+$$
 
 Where:
 
 - \( \mu \) → mean (center of distribution)
 - \( \lambda \) → spread parameter
 - \( c \) → scaling constant
-
 ---
 
 ## ⚙️ Parameter Estimation Method
