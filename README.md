@@ -59,7 +59,7 @@ and
 
 ### Step-2: Probability Density Function
 
-The transformed data \( z \) is modeled using the PDF:
+The transformed data (z) is modeled using the PDF:
 
 $$
 \hat{p}(z) = c \cdot e^{-\lambda (z-\mu)^2}
@@ -67,9 +67,10 @@ $$
 
 Where:
 
-- \( \mu \) → mean (center of distribution)
-- \( \lambda \) → spread parameter
-- \( c \) → scaling constant
+- μ → mean (center of distribution)
+- λ → spread parameter
+- c → scaling constant
+
 ---
 
 ## ⚙️ Parameter Estimation Method
