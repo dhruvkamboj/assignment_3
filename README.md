@@ -80,25 +80,26 @@ Parameters were estimated using **Maximum Likelihood Estimation (MLE)**, which f
 - Sample mean
 - Sample variance
 
-From the transformed data.
+from the transformed data.
 
-### Computation formulas:
+### Computation formulas
 
-\[
+$$
 \mu = \text{mean}(z)
-\]
+$$
 
-\[
+$$
 \sigma^2 = \text{variance}(z)
-\]
+$$
 
-\[
+$$
 \lambda = \frac{1}{2\sigma^2}
-\]
+$$
 
-\[
+$$
 c = \frac{1}{\sqrt{2\pi\sigma^2}}
-\]
+$$
+
 
 ---
 
