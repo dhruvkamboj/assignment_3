@@ -119,8 +119,8 @@ Using the given roll number and dataset, the following values were obtained:
 
 - The transformed data follows a **Gaussian-like distribution**.
 - The mean $$\( \mu \approx 25.8 \)$$ represents the central tendency of the transformed NO₂ values.
-- The small value of \( \lambda \) indicates a **relatively wide distribution**.
-- The scaling constant \( c \) ensures the function behaves like a proper probability density.
+- The small value of $$\( \lambda \)$$ indicates a **relatively wide distribution**.
+- The scaling constant $$\( c \)$$ ensures the function behaves like a proper probability density.
 
 ---
 
