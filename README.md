@@ -54,8 +54,7 @@ $$
 
 and  
 
-$$
-\( r \)$$ = university roll number(102303645).
+r = university roll number(102303645).
 
 
 ---
