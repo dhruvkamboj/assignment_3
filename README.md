@@ -53,9 +53,10 @@ b_r = 0.3 \times ((r \bmod 5) + 1)
 $$
 
 and  
+
 $$
-\( r \) = university roll number(102303645).
-$$
+\( r \)$$ = university roll number(102303645).
+
 
 ---
 
