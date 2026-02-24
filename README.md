@@ -1,6 +1,6 @@
 # Learn Probability Density Functions using Roll-Number-Parameterized Non-Linear Model 📊
 
-**Assignment-1**  
+**Assignment-3**  
 **UCS654**
 
 _Submitted by:_  
